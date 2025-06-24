@@ -23,22 +23,23 @@ this repository contains my writeups andnotes while solving the **bandit** warga
 | 12 → 13     | ✅ Completed | [View writeup](./levels/Level-12-to-13.md)  |
 | 13 → 14     | ✅ Completed | [View writeup](./levels/Level-13-to-14.md)  |
 | 14 → 15     | ✅ Completed | [View writeup](./levels/Level-14-to-15.md)  |
-| 15 → 16     | ✅ Completed | [View writeup](./levels/Level-15-to-16.md)  |
-| 16 → 17     | ✅ Completed | [View writeup](./levels/Level-16-to-17.md)  |
-| 17 → 18     | ✅ Completed | [View writeup](./levels/Level-17-to-18.md)  |
-| 18 → 19     | ✅ Completed | [View writeup](./levels/Level-18-to-19.md)  |
-| 19 → 20     | ✅ Completed | [View writeup](./levels/Level-19-to-20.md)  |
-| 20 → 21     | ✅ Completed | [View writeup](./levels/Level-20-to-21.md)  |
-| 21 → 22     | ✅ Completed | [View writeup](./levels/Level-21-to-22.md)  |
-| 22 → 23     | ✅ Completed | [View writeup](./levels/Level-22-to-23.md)  |
-| 23 → 24     | ✅ Completed | [View writeup](./levels/Level-23-to-24.md)  |
-| 24 → 25     | ✅ Completed | [View writeup](./levels/Level-24-to-25.md)  |
-| 25 → 26     | ✅ Completed | [View writeup](./levels/Level-25-to-26.md)  |
-| 26 → 27     | ✅ Completed | [View writeup](./levels/Level-26-to-27.md)  |
-| 27 → 28     | ✅ Completed | [View writeup](./levels/Level-27-to-28.md)  |
-| 28 → 29     | ✅ Completed | [View writeup](./levels/Level-28-to-29.md)  |
-| 29 → 30     | ✅ Completed | [View writeup](./levels/Level-29-to-30.md)  |
-| 30 → 31     | ✅ Completed | [View writeup](./levels/Level-30-to-31.md)  |
-| 31 → 32     | ✅ Completed | [View writeup](./levels/Level-31-to-32.md)  |
-| 32 → 33     | ✅ Completed | [View writeup](./levels/Level-32-to-33.md)  |
-| 33 → 34     | ✅ Completed | [View writeup](./levels/Level-33-to-34.md)  |
+| 15 → 16     |           ...| [View writeup](./levels/Level-15-to-16.md)  |
+| 16 → 17     |           ...| [View writeup](./levels/Level-16-to-17.md)  |
+| 17 → 18     |           ...| [View writeup](./levels/Level-17-to-18.md)  |
+| 18 → 19     |           ...| [View writeup](./levels/Level-18-to-19.md)  |
+| 19 → 20     |           ...| [View writeup](./levels/Level-19-to-20.md)  |
+| 20 → 21     |           ...| [View writeup](./levels/Level-20-to-21.md)  |
+| 21 → 22     |           ...| [View writeup](./levels/Level-21-to-22.md)  |
+| 22 → 23     |           ...| [View writeup](./levels/Level-22-to-23.md)  |
+| 23 → 24     |           ...| [View writeup](./levels/Level-23-to-24.md)  |
+| 24 → 25     |           ...| [View writeup](./levels/Level-24-to-25.md)  |
+| 25 → 26     |           ...| [View writeup](./levels/Level-25-to-26.md)  |
+| 26 → 27     |           ...| [View writeup](./levels/Level-26-to-27.md)  |
+| 27 → 28     |           ...| [View writeup](./levels/Level-27-to-28.md)  |
+| 28 → 29     |           ...| [View writeup](./levels/Level-28-to-29.md)  |
+| 29 → 30     |           ...| [View writeup](./levels/Level-29-to-30.md)  |
+| 30 → 31     |           ...| [View writeup](./levels/Level-30-to-31.md)  |
+| 31 → 32     |           ...| [View writeup](./levels/Level-31-to-32.md)  |
+| 32 → 33     |           ...| [View writeup](./levels/Level-32-to-33.md)  |
+| 33 → 34     |           ...| [View writeup](./levels/Level-33-to-34.md)  |
+
