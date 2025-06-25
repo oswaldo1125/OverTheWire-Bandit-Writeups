@@ -16,10 +16,10 @@ to start the challenge, we first need to conect to an SSH server. we use the fol
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
-ssh: tells the system to start a secure connection to a remorte server.
-bandit0: the username we use to log in.
-@: separates the username from the server address
--p: specifies the port number we must use for the connection (instead of the default port 22)
+- `ssh:` tells the system to start a secure connection to a remorte server.
+- `bandit0:` the username we use to log in.
+- `@:` separates the username from the server address
+- `-p:` specifies the port number we must use for the connection (instead of the default port 22)
 
 2. change defaul terminal: 
 ```bash 
