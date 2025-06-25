@@ -11,7 +11,7 @@
 
 ## 🧠 Step-by-Step Solution
 
-1. Connect:
+1. Connect:  
 to start the challenge, we first need to conect to an SSH server. we use the following command: 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
@@ -20,7 +20,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - `bandit0:` the username we use to log in.
 - `@:` separates the username from the server address
 - `-p:` specifies the port number we must use for the connection (instead of the default port 22)
-
+![screenshot](../ASSETS/ejercicio%201.2.jpg)
 2. change defaul terminal: 
 ```bash 
 export TERM=xterm
