@@ -22,7 +22,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - `-p:` specifies the port number we must use for the connection (instead of the default port 22)  
 ![screenshot](../ASSETS/ejercicio%201.2.jpg)
 
-2. **change default terminal:** 
+2. **change default terminal:**  
 sometimes, when we log into a new machine, certain commands may not work properly, this is usually due to the environment settings.   
 for example, when we connect to the bandit level 0 machine, the shortcut `ctrl + l` (used to clear the screen) doesn´t work as expected.  
 to fix this, we can use the following command:
@@ -31,19 +31,19 @@ export TERM=xterm
 ```
 ![screenshot](../ASSETS/ejercicio%201.1.jpg)
 
-3. **Visualize the file:**
+3. **Visualize the file:**  
 after logging into the machine and setting the environment, we can view the files within the current directory:
 ```bash
 ls /home/bandit0
 ```
 ![screenshot](../ASSETS/ejercicio%201.3.jpg)
 
-4. print and read the file´s content: 
+4. **print and read the file´s content:**  
 once we locate the file, we use the `cat`command to display its contents. 
 ```bash
 cat /home/bandit0/readme
 ```
-![screenshot](../ASSETS/ejercicio%201.4.jpgASSET)
+![screenshot](../ASSETS/ejercicio%201.4.jpg)
 
 ## 💡 Key Takeaway
 > What you learned in this level:  
