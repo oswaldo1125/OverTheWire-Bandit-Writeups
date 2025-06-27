@@ -30,7 +30,7 @@ normally, when we want to print the contentd of the file, we can use the `cat`co
 if we try to use `cat` followed by a filename that begins with `-` the environment interprets is as an option or flag, not as a filename  
 to open files like this, there´re differents ways to do
 - we can use absolutly rout following by the name of the file `cat /home/bandit1/-` also we can use a relatiavely rout `cat ./-`  
-![screenshot](../ASSETS/ejercicio%202/ejercicio%202.3.jpg)
+![screenshot]()
 
 ## 💡 Key Takeaway
 > What you learned in this level.
