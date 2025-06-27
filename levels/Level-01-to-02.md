@@ -33,6 +33,6 @@ to open files like this, there´re differents ways to do
 ![screenshot](../ASSETS/ejercicio%202/ejercicio%202.3.jpg)
 
 ## 💡 Key Takeaway
-> What you learned in this level.
+> in this level i learned that when dealing with files whose names begin with a hyphen "-" we can´t use the`cat`command directly, because it doesn't work properly, instead, we need to use the **absolute** or **relative** path so that the environment understands we are trying to open a file instad of passing a flag 
 
 ---
