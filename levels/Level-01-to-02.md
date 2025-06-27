@@ -19,7 +19,7 @@ To use the `sshpass`command, we need the following estructure:
 ```bash
 sshpass -p 'password' ssh bandit1@bandit.labs.overthewire.org -p 2220
 ```
-![screenshot]()
+![screenshot](../ASSETS/ejercicio%202/ejercicio%202.1.jpg)
 
 2. **find the file**   
 to find the file we need to use `ls` command, this  command allow us to list all the files in the  directory.
